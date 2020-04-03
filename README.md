@@ -1,4 +1,4 @@
-# Eploratory Data Analysis
+# Exploratory Data Analysis
 
 Note books and Datasets
 
